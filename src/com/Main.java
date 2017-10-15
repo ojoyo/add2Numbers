@@ -8,6 +8,8 @@ public class Main {
     //TODO : Puneet - Do it by method overloading
     //TODO : Yogesh - Do it by making simple add method
 
+      helpervarun h1= new helpervarun();
 
+      h1.add();
     }
 }
